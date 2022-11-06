@@ -1,0 +1,9 @@
+display.c:6:6:clear7SEGs	8	static
+display.c:12:6:clearEN	8	static
+display.c:18:6:openEN	8	static
+display.c:24:6:display7SEG	16	static
+display.c:79:6:resetBuffer	8	static
+display.c:86:6:increaseBuffer	16	static
+display.c:93:6:decreaseBuffer	16	static
+display.c:100:6:updateBuffer	16	static
+display.c:107:5:bufferValue	4	static
